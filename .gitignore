@@ -31,3 +31,6 @@ yarn-error.log*
 
 # local .env files
 .env.local*
+
+# reportfile
+/CEISP_api/reportlab_fc/reportfiles
